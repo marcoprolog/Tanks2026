@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 29
-  productGUID: 00000000000000000000000000000000
+  productGUID: ed7b20996b04cf3448ba85a978c619b7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -962,7 +962,7 @@ PlayerSettings:
   cloudProjectId: 065f7f1a-d062-49d7-ae30-fceda0494291
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: QA-Pack-1 2026-01-14_20-55-28
+  projectName: Tanks2026
   organizationId: marco-562454
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
